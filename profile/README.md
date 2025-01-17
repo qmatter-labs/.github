@@ -1,8 +1,6 @@
-# QMATTER, INC.
+> QMatter designs algorithms for solving electronic structure using ideas from quantum foundations.
 
-QMatter designs algorithms for solving electronic structure using ideas from quantum foundations.
-
-Our technology is compatible with conventional HPC and quantum computers.
+> Our technology is compatible with conventional HPC and quantum computers.
 
 <p float="center">
 <!--   <img src="https://github.com/user-attachments/assets/6797271c-3449-4fad-ada2-207c51338f23" width="400" /> -->
